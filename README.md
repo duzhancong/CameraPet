@@ -7,7 +7,7 @@
 
 ***
 
-温馨提示：本项目尚在立项阶段尚未开发完成。
+<br />
 
 <br />
 
@@ -20,40 +20,6 @@
 - 🏠 **创建生活场景** —— 为你的宠物打造全新或跟照片无异的生活环境、支持多场景切换（就像家里多个摄像头，随意切换观察场景）
 - 📹 **摄像头视角观察** —— 像用摄像头观察家里宠物一样，随时查看宠物的状态
 - 🎤 **语音互动** —— 内置麦克风支持，虚拟宠物能听到主人的呼唤并作出回应
-
-***
-
-📦 安装
-
-### 下载安装包
-
-前往 [Releases](https://github.com/duzhancong/CameraPet/releases) 页面下载最新版本。
-
-### 从源码构建
-
-```bash
-# 克隆仓库
-git clone https://github.com/duzhancong/CameraPet.git
-cd CameraPet
-
-# 安装依赖
-npm install
-
-# 启动开发环境
-npm run dev
-
-# 构建应用
-npm run build
-```
-
-***
-
-🛠️ 技术栈
-
-- **前端**：React + Vite + Styled Components
-- **桌面端**：Electron
-- **AI 后端**：Python + Flask + PyTorch
-- **实时通信**：WebSocket
 
 ***
 
@@ -74,3 +40,11 @@ npm run build
 **Made with ❤️ for pet lovers**
 
 </div>
+
+<br />
+
+<br />
+
+\## 版权与声明 本项目创意、设计、产品逻辑均为原创，首次公开于 GitHub。 未经授权，禁止直接复刻、抄袭、商用。 如需借鉴或合作，请联系：297062123\@qq.com&#x20;
+
+\## 目前状态 - 仅公开创意与规划 - 核心实现暂不开放
